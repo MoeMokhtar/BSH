@@ -1,0 +1,12 @@
+#page-wrap { 
+  width: 600px; 
+  margin: 15px auto; 
+  position: relative; 
+}
+
+#sidebar { 
+  width: 190px; 
+  position: fixed; 
+  margin-left: 820px; 
+  top:60% !important;
+}
